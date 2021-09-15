@@ -1,0 +1,6 @@
+framework module AudioHelper {
+  umbrella header "AudioHelper.h"
+
+  export *
+  module * { export * }
+}
